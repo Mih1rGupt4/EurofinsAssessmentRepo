@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Test 1\\SuperWheelsCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|c:\\test 1\\superwheelscompany\\superwheelscompany\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|solutionrelative:superwheelscompany\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|c:\\test 1\\superwheelscompany\\superwheelscompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|solutionrelative:superwheelscompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|c:\\test 1\\superwheelscompany\\superwheelscompany\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|solutionrelative:superwheelscompany\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|c:\\test 1\\superwheelscompany\\superwheelscompany\\vehiclessold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|solutionrelative:superwheelscompany\\vehiclessold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|c:\\test 1\\superwheelscompany\\superwheelscompany\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|solutionrelative:superwheelscompany\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|c:\\test 1\\superwheelscompany\\superwheelscompany\\corporate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7D597-FEEE-4222-AE39-16DD59F95698}|SuperWheelsCompany\\SuperWheelsCompany.csproj|solutionrelative:superwheelscompany\\corporate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Corporate.cs",
+              "DocumentMoniker": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Corporate.cs",
+              "RelativeDocumentMoniker": "SuperWheelsCompany\\Corporate.cs",
+              "ToolTip": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Corporate.cs",
+              "RelativeToolTip": "SuperWheelsCompany\\Corporate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:43:19.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiclesSold.cs",
+              "DocumentMoniker": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\VehiclesSold.cs",
+              "RelativeDocumentMoniker": "SuperWheelsCompany\\VehiclesSold.cs",
+              "ToolTip": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\VehiclesSold.cs",
+              "RelativeToolTip": "SuperWheelsCompany\\VehiclesSold.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:23:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Sales.cs",
+              "RelativeDocumentMoniker": "SuperWheelsCompany\\Sales.cs",
+              "ToolTip": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Sales.cs",
+              "RelativeToolTip": "SuperWheelsCompany\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:49:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Company.cs",
+              "RelativeDocumentMoniker": "SuperWheelsCompany\\Company.cs",
+              "ToolTip": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Company.cs",
+              "RelativeToolTip": "SuperWheelsCompany\\Company.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAlwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:46:03.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "SuperWheelsCompany\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\ClassDiagram1.cd",
+              "RelativeToolTip": "SuperWheelsCompany\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-02-29T08:41:45.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Program.cs",
+              "RelativeDocumentMoniker": "SuperWheelsCompany\\Program.cs",
+              "ToolTip": "C:\\Test 1\\SuperWheelsCompany\\SuperWheelsCompany\\Program.cs",
+              "RelativeToolTip": "SuperWheelsCompany\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:40:10.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

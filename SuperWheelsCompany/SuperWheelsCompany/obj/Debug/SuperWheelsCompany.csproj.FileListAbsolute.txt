@@ -1,0 +1,7 @@
+C:\Test 1\SuperWheelsCompany\SuperWheelsCompany\bin\Debug\SuperWheelsCompany.exe.config
+C:\Test 1\SuperWheelsCompany\SuperWheelsCompany\bin\Debug\SuperWheelsCompany.exe
+C:\Test 1\SuperWheelsCompany\SuperWheelsCompany\bin\Debug\SuperWheelsCompany.pdb
+C:\Test 1\SuperWheelsCompany\SuperWheelsCompany\obj\Debug\SuperWheelsCompany.csproj.AssemblyReference.cache
+C:\Test 1\SuperWheelsCompany\SuperWheelsCompany\obj\Debug\SuperWheelsCompany.csproj.CoreCompileInputs.cache
+C:\Test 1\SuperWheelsCompany\SuperWheelsCompany\obj\Debug\SuperWheelsCompany.exe
+C:\Test 1\SuperWheelsCompany\SuperWheelsCompany\obj\Debug\SuperWheelsCompany.pdb
