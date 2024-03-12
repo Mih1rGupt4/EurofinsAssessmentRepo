@@ -1,0 +1,19 @@
+Classes Created
+Branch
+Company
+Person
+Customer
+Employee
+SalaryCalculator
+
+Relationships
+Company has-a Branch (1..*)
+Company has-a CorporateOfficeBranch
+Company has-a RegisteredOfficeBranch
+Company has-a Employee (1..*)
+Company has-a Customer (1..*)
+Employee is-a Person
+Customer is-a Person
+Employee uses SalaryCalculator
+
+

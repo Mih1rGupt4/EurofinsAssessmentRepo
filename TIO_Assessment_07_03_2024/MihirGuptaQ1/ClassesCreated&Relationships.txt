@@ -1,0 +1,15 @@
+Classes Created
+IDE
+PProceduralLanguage
+ObjectOrientedLanguage
+CSharp 
+Java 
+C
+
+Relationships
+C is-a ProceduralLanguage
+Java is-a ObjectOrientedLanguage
+CSharp is-a ObjectOrientedLanguage
+ObjectOrientedLanguage is-a ILanguage
+ProceduralLanguage is-a ILanguage
+IDE has-a ILanguage

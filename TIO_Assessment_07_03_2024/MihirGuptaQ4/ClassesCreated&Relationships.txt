@@ -1,0 +1,17 @@
+Classes Created
+GlobalConnectAirlines
+Flight
+Route
+User
+Book
+Payment
+Passenger
+
+Relationships
+Flight has-a Route (*..*)
+Passenger has-a Flight
+Book has-a Passenger (1..*)
+Book has-a Payment
+User has-a Book
+GlobalConnectAirlines has-a User (1..*)
+GlobalConnectAirlines has-a Flight (1..*)

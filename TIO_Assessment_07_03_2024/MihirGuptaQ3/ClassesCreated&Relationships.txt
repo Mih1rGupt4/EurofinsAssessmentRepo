@@ -1,0 +1,9 @@
+Classes Created
+Project
+ProjectManager
+ProjectLead
+
+Relationships
+Project has-a ProjectManager (1..1)
+ProjectManager has-a ProjectLead (1..*)
+Project has-a ProjectLead (1..*)
